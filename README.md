@@ -1,2 +1,2 @@
-# seqin-dlpython
+# moio-dlpython
 Learn Deep Learning 
