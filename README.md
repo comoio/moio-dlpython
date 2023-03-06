@@ -1,2 +1,2 @@
-# seqin-dlpython
+# mlv-dlpython
 Learn Deep Learning 
